@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "service": "Facebook",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    },
+    {
+      "id": 2,
+      "service": "Instagram",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    },
+    {
+      "id": 3,
+      "service": "Youtube",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    },
+    {
+      "id": 4,
+      "service": "Stack Overflow",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    },
+    {
+      "id": 5,
+      "service": "Gmail",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    },
+    {
+      "id": 6,
+      "service": "Outlook",
+      "email": "victor@fiap.com.br",
+      "password": "@Fiap1234"
+    }
+  ]
